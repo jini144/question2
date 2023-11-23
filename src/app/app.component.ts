@@ -11,4 +11,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'question2';
+  sentence = 'Welcome to this Javascript Guide!';
 }
